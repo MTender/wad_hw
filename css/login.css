@@ -29,10 +29,6 @@
     font-weight: bold;
 }
 
-a:link {
-    color: rgb(50, 130, 156);
-}
-
 .login-input {
     width: 100%;
     padding-bottom: 15px;
