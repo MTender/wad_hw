@@ -24,7 +24,7 @@
     height: 70px;
 }
 
-.logo + p {
+.logo+p {
     padding-top: 60px;
     font-weight: bold;
 }
@@ -38,7 +38,7 @@ a:link {
     padding-bottom: 15px;
 }
 
-.login-input input{
+.login-input input {
     width: 40%;
     margin: 4px;
     padding: 10px;
@@ -60,6 +60,6 @@ a:link {
     background-color: #517ced;
 }
 
-.login-input ~ a {
+.login-input~a {
     font-size: 13px;
 }
