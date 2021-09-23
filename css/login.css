@@ -2,10 +2,29 @@
 
 .center-box {
     margin: 0 auto;
-    margin-top: 20%;
+    margin-top: 15%;
+    padding-bottom: 50px;
     background-color: white;
-    width: 24%;
+    width: 30%;
     min-width: 440px;
     height: 70%;
-    box-shadow: 2px 3px 4px 2px black;
+    box-shadow: 5px 5px 30px 1px black;
+    text-align: center;
+}
+
+.logo {
+    position: absolute;
+}
+
+.logo img {
+    height: 70px;
+}
+
+.logo + p {
+    padding-top: 60px;
+    font-weight: bold;
+}
+
+a:link {
+    color: rgb(50, 130, 156);
 }
