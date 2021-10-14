@@ -1,0 +1,23 @@
+[{
+        "id": 1,
+        "profilePicture": "pfp1.jpg",
+        "date": "2021-09-17",
+        "time": "9:45",
+        "caption": "I think it's going to rain again",
+        "image": "post1-img.jpg"
+    },
+    {
+        "profilePicture": "pfp2.jpg",
+        "date": "2021-09-15",
+        "time": "17:43",
+        "caption": "Which weighs more, a pound of feathers or a pound of bricks?",
+        "image": ""
+    },
+    {
+        "profilePicture": "pfp3.jpg",
+        "date": "2021-09-14",
+        "time": "0:00",
+        "caption": "Which weighs more, a pound of feathers or a pound of bricks?",
+        "image": "post3-img.jpg"
+    }
+]
