@@ -12,8 +12,9 @@ $(function() {
 
             let profilePicture = $('<div class="profile-picture">');
             let pictureLink = $('<a href="#">');
-            pictureLink.append($('<img src="images/profile-pictures/' + post.profilePicture + '" id="poster' + post.id + '-pfp" alt="pfp">'));
+            pictureLink.append($('<img src="images/profile-pictures/' + post.author.profilePicture + '" id="poster' + post.id + '-pfp" alt="pfp">'));
             profilePicture.append(pictureLink);
+            profilePicture.append(" " + post.author.firstname + " " + post.author.lastname);
 
             let postDatetime = $('<div class="post-datetime">');
             postDatetime.append($('<p>').text(new Date(post.date).toLocaleDateString("en-US", dateOptions)));
