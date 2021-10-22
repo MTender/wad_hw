@@ -9,6 +9,7 @@
     <link rel="stylesheet" type="text/css" href="css/home.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script type="text/javascript" src="js/retrieve-posts.js"></script>
+    <script type="text/javascript" src="js/drop-down.js"></script>
 </head>
 
 <body>
@@ -25,8 +26,12 @@
                     <input type="submit" id="search-button" value="Search" onclick="location.href='index.html'">
                 </div>
             </div>
-            <div class="header-item profile-picture">
+            <div class="header-item profile-picture" onclick="dropFunction()">
                 <a href="#"><img src="images/pfp-placeholder.png" id="current-user-pfp" alt="pfp"></a>
+                <div id="myDropdown" class="dropdown-content">
+                    <p>John Doe</p>
+                    <p>john.doe@example.com</p>
+                </div>
             </div>
         </div>
     </header>

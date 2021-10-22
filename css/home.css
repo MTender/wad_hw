@@ -128,3 +128,18 @@ header {
 .post-image img {
     width: 100%;
 }
+
+.dropdown-content {
+    display: none;
+    position: absolute; 
+    right:0px;
+    top:64px;
+    background-color: #ffff;
+    z-index: 1;
+    color: gray;
+    padding: 7px;
+}
+
+.show{
+    display: block;
+}
