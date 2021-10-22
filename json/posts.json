@@ -33,5 +33,89 @@
         "time": "0:00",
         "caption": "Which weighs more, a pound of feathers or a pound of bricks?",
         "image": "post3-img.jpg"
+    },
+    {
+        "id": 4,
+        "author": {
+            "profilePicture": "pfp4.webp",
+            "firstname": "Peter",
+            "lastname": "Man"
+        },
+        "date": "2021-09-14",
+        "time": "8:30",
+        "caption": "This is a funny-looking dog, don't you think?",
+        "image": "post4-img.webp"
+    },
+    {
+        "id": 5,
+        "author": {
+            "profilePicture": "pfp5.png",
+            "firstname": "Mariah",
+            "lastname": "Goeswek"
+        },
+        "date": "2021-09-13",
+        "time": "15:27",
+        "caption": "When dad tells you to buy Enefit Green stock and you go all in. #stonks",
+        "image": ""
+    },
+    {
+        "id": 6,
+        "author": {
+            "profilePicture": "pfp1.jpg",
+            "firstname": "Jeffrey",
+            "lastname": "Basedos"
+        },
+        "date": "2021-09-16",
+        "time": "19:46",
+        "caption": "Anyone up for some anti-union activities?",
+        "image": ""
+    },
+    {
+        "id": 7,
+        "author": {
+            "profilePicture": "pfp6.webp",
+            "firstname": "Yuri",
+            "lastname": "Nate"
+        },
+        "date": "2021-09-17",
+        "time": "13:53",
+        "caption": "I really liked the last episode of Notflix's \"Cephalopod game\"",
+        "image": "post7-img.webp"
+    },
+    {
+        "id": 8,
+        "author": {
+            "profilePicture": "pfp7.png",
+            "firstname": "Sander",
+            "lastname": "Sand"
+        },
+        "date": "2021-09-16",
+        "time": "18:32",
+        "caption": "I think it's time to finally admit it. I love sand.",
+        "image": "post8-img.jpg"
+    },
+    {
+        "id": 9,
+        "author": {
+            "profilePicture": "pfp4.webp",
+            "firstname": "Peter",
+            "lastname": "Man"
+        },
+        "date": "2021-09-15",
+        "time": "15:10",
+        "caption": "I just found out how to actually play the game \"hangman\". Been doing it wrong for years.",
+        "image": ""
+    },
+    {
+        "id": 10,
+        "author": {
+            "profilePicture": "pfp5.png",
+            "firstname": "Mariah",
+            "lastname": "Goeswek"
+        },
+        "date": "2021-09-14",
+        "time": "11:17",
+        "caption": "Cute dog",
+        "image": "post10-img.jpg"
     }
 ]
