@@ -6,6 +6,10 @@
     border-radius: 50%;
 }
 
+.profile-picture p {
+    margin-top: 2px;
+}
+
 
 /* HEADER */
 
