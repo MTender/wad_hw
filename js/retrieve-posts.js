@@ -1,4 +1,5 @@
-$(function() {
+$(
+    function() {
     /*$.get("https://api.npoint.io/9f01f9e5f6462ffc8e5e", function(allPosts) {*/
     $.get("json/posts.json", function(allPosts) {
         let postsArea = $('.posts-area');
@@ -49,4 +50,6 @@ $(function() {
             postsArea.append(postDiv)
         }
     })
-});
+}
+
+);
