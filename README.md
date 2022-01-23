@@ -1,6 +1,6 @@
 # WAD_hw
 Veebirakenduste loomine LTAT.05.004
 
-Kodutööd
+Kodutööd 1 ja 2
 
 Sander Soodla, Maria Küüsvek, Märt Tender
